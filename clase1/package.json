@@ -1,0 +1,35 @@
+{
+  "name": "curso-node",
+  "version": "1.0.0",
+  "description": "el mejor curso de node jkijij",
+  "keywords": [
+    "curso",
+    "node",
+    "node.js",
+    "express"
+  ],
+  "homepage": "https://github.com/Alex020825/Curso-Node.js#readme",
+  "bugs": {
+    "url": "https://github.com/Alex020825/Curso-Node.js/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alex020825/Curso-Node.js.git"
+  },
+  "license": "ISC",
+  "author": "Wilmer Beltran",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "picocolors": "1.1.1"
+  },
+  "devDependencies": {
+    "standard": "17.1.2"
+  },
+  "islintConfig": {
+    "extend": "standard"
+  }
+}
