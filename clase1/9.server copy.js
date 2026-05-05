@@ -1,7 +1,6 @@
 const http = require('node:http');
 const {encontrarPuerto} =require('./10.free-port')
 
-
 const server = http.createServer((req,res)=>{
     console.log("pedido recibido")
     res.end("Hola Mundo")
